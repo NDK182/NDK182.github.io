@@ -2,4 +2,4 @@
 
 18:27 https://cs7-12v4.vkuseraudio.net/s/v1/ac/gcLWUpUSr-EpNt2dBVZ-yQNkPvkDmLb9x8VQChphgvGajhfIXCHhQAO3Eajh_VCcMfqCLqx8zCw_W0nZYYga4pVXOrOBVngzZasY9SzLHlpOUgabRTiP_K3UO-pfbMQhQiBbfcoFpwMjjzW6JsI234r4STerIBi0SSHG3EnW_IYRMjM/index.m3u8,
 
-16:36 https://sgi1.ufanet-orenburg.vkuseraudio.net/s/v1/ac/wSVBxHSXRJN5WW8EGK4fkL7RnoagPHREU-8gk8om0d6a6IL3o12HoDH6OII2CrC1KeTCJpQV_Giy-VfxGByS-CC4Au-MbSJVGiL8UYvXZGkenN5INpMpOKBMySy5p6wYL9CCcDvKFanfInQ3ZHFtMwq5sESsBlqx3Ntk-jFIVs7msrI/index.m3u8
+16:47 https://sgi1.ufanet-orenburg.vkuseraudio.net/s/v1/ac/wSVBxHSXRJN5WW8EGK4fkL7RnoagPHREU-8gk8om0d6a6IL3o12HoDH6OII2CrC1KeTCJpQV_Giy-VfxGByS-CC4Au-MbSJVGiL8UYvXZGkenN5INpMpOKBMySy5p6wYL9CCcDvKFanfInQ3ZHFtMwq5sESsBlqx3Ntk-jFIVs7msrI/index.m3u8
