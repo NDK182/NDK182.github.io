@@ -3,4 +3,4 @@ https://github.com/NDK182/NDK182.github.io/raw/main/updates/update2.txt
 https://github.com/NDK182/NDK182.github.io/raw/main/updates/update3.txt
 https://github.com/NDK182/NDK182.github.io/raw/main/updates/update4.txt
 https://github.com/NDK182/NDK182.github.io/raw/main/updates/update5.txt
-https://github.com/NDK182/NDK182.github.io/blob/main/updates/Холодильник.exe
+https://github.com/NDK182/NDK182.github.io/raw/main/updates/Холодильник.exe
