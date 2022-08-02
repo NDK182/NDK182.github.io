@@ -1,4 +1,4 @@
-https://github.com/NDK182/NDK182.github.io/raw/main/updates/update1.txt
+﻿https://github.com/NDK182/NDK182.github.io/raw/main/updates/update1.txt
 https://github.com/NDK182/NDK182.github.io/raw/main/updates/update2.txt
 https://github.com/NDK182/NDK182.github.io/raw/main/updates/update3.txt
 https://github.com/NDK182/NDK182.github.io/raw/main/updates/update4.txt
